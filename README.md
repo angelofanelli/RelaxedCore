@@ -1,4 +1,4 @@
-This repository contains the code of the experimental work described in the manuscript A. Fanelli, L. Moscardelli, G. Monaco, "Relaxed Core Stability", submitted for publication in Artificial Intelligence Journal (https://www.sciencedirect.com/journal/artificial-intelligence)
+This repository contains the code of the experimental work described in the manuscript A. Fanelli, G. Monaco, L. Moscardelli, "Relaxed Core Stability", submitted for publication in Artificial Intelligence Journal (https://www.sciencedirect.com/journal/artificial-intelligence)
 
 
 
