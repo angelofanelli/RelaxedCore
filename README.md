@@ -1,3 +1,16 @@
+This repository contains the code of the experimental work described in the manuscript A. Fanelli, L. Moscardelli, G. Monaco, "Relaxed Core Stability", submitted for publication in Artificial Intelligence Journal (https://www.sciencedirect.com/journal/artificial-intelligence)
+
+
+
+########
+Execution
+
+Execute scripts.jl to run all the experiments  
+
+
+########
+Description of  the experiment
+
 The experiment process starts by randomly generating a weighted (or unweighted) graph with $n$ nodes and whose edges are established based on a given probability $p$ (an edge between any pair of nodes is created with probability $p$).  
 This setup allows for the creation of graphs with different values of edge density, depending on the value of $p$. 
 Then an initial partition of agents into coalitions (groups) is defined. 
@@ -9,4 +22,4 @@ The process continues until no further improvements can be made (in this case, t
 
 
 
-Execute scripts.jl to run all the experiments  
+
